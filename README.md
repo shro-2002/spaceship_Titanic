@@ -1,1 +1,3 @@
 # spaceship_Titanic
+
+This project aims to predict whether passengers aboard the Spaceship Titanic were transported to an alternate dimension. Using personal records of the passengers, machine learning techniques are employed to classify individuals based on features such as home planet, cryosleep status, cabin information, destination, age, VIP status, and onboard expenditure. A logistic regression model is trained and evaluated using a train-test split, achieving reasonable accuracy. The model is then applied to the test dataset to make predictions. The findings contribute to rescue efforts and demonstrate the potential of utilizing personal records for informed predictions.
